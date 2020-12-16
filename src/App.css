@@ -18,6 +18,8 @@
 }
 
 .title {
+  font-family: 'Merry Christmas', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: calc(400%);
   margin-top: 24px;
 }
 
@@ -60,4 +62,9 @@ hr {
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: 'Merry Christmas';
+  src: local('Merry Christmas'), url('./fonts/MerryChristmasStar.ttf') format('truetype');
 }
