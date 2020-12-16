@@ -14,22 +14,22 @@ function App() {
       <header className="App-header">
         <h1 className="title"> Crescent Park Nativity </h1>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <h3>Nativity Scene</h3>
-        <ReactAudioPlayer
-          src={nativityMix}
-          controls
-        />
-        <h3>Shepherd Scene</h3>
+        <h3>Shepherds</h3>
         <ReactAudioPlayer
           src={shepherdsMix}
           controls
         />
-        <h3>Inn Scene</h3>
+        <h3>The Inn</h3>
         <ReactAudioPlayer
           src={innMix}
           controls
         />
-        <h3>Wisemen Scene</h3>
+        <h3>Nativity</h3>
+        <ReactAudioPlayer
+          src={nativityMix}
+          controls
+        />
+        <h3>Wisemen</h3>
         <ReactAudioPlayer
           src={wisemenMix}
           controls
