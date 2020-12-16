@@ -20,7 +20,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 className="title"> Crescent Park Nativity </h1>
+        <div className="title"> Crescent Park Nativity </div>
+
         <h3>Shepherds</h3>
         <ReactAudioPlayer
           src={shepherdsMix}
@@ -38,7 +39,7 @@ function App() {
           controls
           onPlay={handleOnPlay}
         />
-        <h3>Nativity Scene</h3>
+        <h3>Nativity</h3>
         <ReactAudioPlayer
           src={nativityMix}
           controls
