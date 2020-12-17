@@ -24,6 +24,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="title"> Crescent Park Nativity </div>
+        <div className="date">
+          <p>Saturday, December 19, 2020, 5:00 - 6:30 PM</p>
+        </div>
 
         <h3>Shepherds</h3>
         <ReactAudioPlayer
@@ -129,7 +132,7 @@ function App() {
             Thank you for your donation this evening to the Utah Food Bank.
           </p>
           <p>
-            <a href="https://www.utahfoodbank.org/"><img src={foodbank} alt="" /></a>
+            <a href="https://www.utahfoodbank.org/"><img className="foodbank-img" src={foodbank} alt="" /></a>
           </p>
         </div>
 
