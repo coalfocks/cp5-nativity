@@ -1,5 +1,4 @@
 import { useState } from 'react'
-
 import './App.css';
 import ReactAudioPlayer from 'react-audio-player'
 
@@ -12,9 +11,6 @@ import logo from './bishopric.jpg'
 
 
 function App() {
-// store current element in state when hit play
-// if current isn't new, pause current then set current to new
-// play current
   const [ current, setCurrent ] = useState()
   const handleOnPlay = ({ target }) => {
     if (target !== current) {

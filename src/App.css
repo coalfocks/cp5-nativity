@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  /* TODO: center this for mobile */
   background-image: url('https://assets.ldscdn.org/9d/79/9d7938cb7303371ce0047d095e7e8ead893f8ead1050190/nativity_scene_mary_joseph_baby_jesus.jpeg');
   display: flex;
   justify-content: center;
@@ -33,6 +32,7 @@
   justify-content: flex-start;
   font-size: calc(10px + 2vmin);
   color: #000000;
+  padding: 0 12px 0 12px;
 }
 
 .bishopric {
