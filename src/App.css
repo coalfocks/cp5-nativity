@@ -42,6 +42,13 @@
   color: #000000;
 }
 
+.foodbank {
+  width: 70%;
+  text-align: left;
+  font-size: calc(10px + 1vmin);
+  color: #000000;
+}
+
 .logo {
   width: 70%;
   margin: 24px;
