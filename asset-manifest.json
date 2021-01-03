@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/crescentpark5/static/css/main.0ec20310.chunk.css",
+    "main.js": "/crescentpark5/static/js/main.2d3f4159.chunk.js",
+    "main.js.map": "/crescentpark5/static/js/main.2d3f4159.chunk.js.map",
+    "runtime-main.js": "/crescentpark5/static/js/runtime-main.7b807ab5.js",
+    "runtime-main.js.map": "/crescentpark5/static/js/runtime-main.7b807ab5.js.map",
+    "static/js/2.a3860c05.chunk.js": "/crescentpark5/static/js/2.a3860c05.chunk.js",
+    "static/js/2.a3860c05.chunk.js.map": "/crescentpark5/static/js/2.a3860c05.chunk.js.map",
+    "static/js/3.79479de5.chunk.js": "/crescentpark5/static/js/3.79479de5.chunk.js",
+    "static/js/3.79479de5.chunk.js.map": "/crescentpark5/static/js/3.79479de5.chunk.js.map",
+    "index.html": "/crescentpark5/index.html",
+    "static/css/main.0ec20310.chunk.css.map": "/crescentpark5/static/css/main.0ec20310.chunk.css.map",
+    "static/js/2.a3860c05.chunk.js.LICENSE.txt": "/crescentpark5/static/js/2.a3860c05.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/crescentpark5/static/media/MerryChristmasStar.25a7ee2f.ttf",
+    "static/media/bishopric.08aa739c.jpg": "/crescentpark5/static/media/bishopric.08aa739c.jpg",
+    "static/media/nativity.e53474e1.mp3": "/crescentpark5/static/media/nativity.e53474e1.mp3",
+    "static/media/shepherds.1fc2c259.mp3": "/crescentpark5/static/media/shepherds.1fc2c259.mp3",
+    "static/media/the-inn.158baecd.mp3": "/crescentpark5/static/media/the-inn.158baecd.mp3",
+    "static/media/utah-food-bank.b926ccee.svg": "/crescentpark5/static/media/utah-food-bank.b926ccee.svg",
+    "static/media/wisemen.7a677f00.mp3": "/crescentpark5/static/media/wisemen.7a677f00.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b807ab5.js",
+    "static/js/2.a3860c05.chunk.js",
+    "static/css/main.0ec20310.chunk.css",
+    "static/js/main.2d3f4159.chunk.js"
+  ]
+}
